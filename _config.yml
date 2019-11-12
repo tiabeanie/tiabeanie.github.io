@@ -1,11 +1,11 @@
 # Site settings
 author: Sydney Hunter
-title: 
+title: The (Online) Flatiron Experience 
 header-img: img/home-bg.png
 email: sydney.jane.hunter@gmail.com
 copyright_name: Sydney Hunter
 description: > # this means to ignore newlines until "baseurl:"
-  
+  An ongoing documentation of my software engineering education 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tiabeanie
