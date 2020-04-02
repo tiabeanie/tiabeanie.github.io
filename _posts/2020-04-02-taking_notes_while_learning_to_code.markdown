@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Taking Notes While Learning to Code"
-date:       2020-04-02 20:19:02 +0000
+date:       2020-04-02 16:19:09 -0400
 permalink:  taking_notes_while_learning_to_code
 ---
 
